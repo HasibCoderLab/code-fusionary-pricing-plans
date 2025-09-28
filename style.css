@@ -2,10 +2,14 @@
     margin: 0;
     padding: 0;
 }
+
 body {
-    background: linear-gradient(135deg, #FF6B6B, #FFD93D, #6BCB77, #4D96FF, #845EC2);
-    min-height: 100vh; 
+    background: linear-gradient(180deg, #fdfbf3, #fef3cc);
+
+    min-height: 100vh;
 }
+    
+
 
 img{
     height:100px;
@@ -21,9 +25,9 @@ img{
     margin: 20px;
 }
 .box{
-    height: 400px;
+    height: 500px;
     width: 300px;
-    border: 0.1px solid rgb(148, 142, 142);
+    border: 4px solid#FFB039;;
     /* margin: 20px; */
     
 }
