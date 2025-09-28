@@ -2,6 +2,11 @@
     margin: 0;
     padding: 0;
 }
+body {
+    background: linear-gradient(135deg, #FF6B6B, #FFD93D, #6BCB77, #4D96FF, #845EC2);
+    min-height: 100vh; 
+}
+
 img{
     height:100px;
     width: 100px;
