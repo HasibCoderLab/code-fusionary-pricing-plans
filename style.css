@@ -43,7 +43,26 @@ header img {
 .box:hover {
     box-shadow: 0 4px 12px #cfd8dc66;
 }
+/* for Toggle btn */
+.plan-options {
+    display: none;
+    margin: 15px auto;
+    text-align: center;
+}
 
+.plan-options button {
+    margin: 5px;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    background: #4079da;
+    color: #fff;
+    cursor: pointer;
+}
+.plan-options button:hover {
+    background: #305db0;
+}
+/* text mid */
 .mid {
     margin: 10px 0 0 15px;
 }
