@@ -42,8 +42,23 @@ header img {
 .box:hover {
     box-shadow: 0 4px 12px #cfd8dc66;
 }
-.mid{
-     margin: 10px  0 0 15px;
+
+.mid {
+    margin: 10px 0 0 15px;
+}
+
+.dollar {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    /* gap: 5px; */
+    margin: 10px 0 0 10px;
+}
+
+.dollar span {
+    color: #2e3446;
+    font-size: 32px;
+    font-weight: 700
 }
 
 .box button {
