@@ -26,8 +26,8 @@ header img{
 .box{
     height: 500px;
     width: 300px;
-    border: 4px solid #FFB039;;
-    ;
+    border: 4px solid #FFB039;
+    background-color: #FFF;
     /* margin: 20px; */
     
 }
@@ -46,9 +46,14 @@ header img{
     border: none;
     outline:none;
     padding:1rem 3rem;
-    color: #fff;
-    background-color: rgb(93, 171, 223);
+    color: #4079da;
+    background: #ebf2ff;;
     border-radius: 5px;
     font-size: 16px;
+    font-weight: 700;
     cursor: pointer;
+}
+
+button:hover{
+    box-shadow: 0 4px 12px #cfd8dc66;
 }
