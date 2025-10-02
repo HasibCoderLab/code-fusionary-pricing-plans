@@ -24,8 +24,9 @@ header img{
     margin-top: 100px;
 }
 .box{
-    height: 500px;
-    width: 300px;
+   min-height: 500px;
+  /* min-width: 300px; */
+  width: 350px;
     border: 4px solid #FFB039;
     background-color: #FFF;
     /* margin: 20px; */
@@ -59,8 +60,13 @@ header img{
 
 button:hover{
     box-shadow: 0 4px 12px #cfd8dc66;
+    
 }
 
 .box i{
     color: #17a94f;
+    margin: 0 0 0 15px;
+}
+.box img{
+margin: 15px 0 0 15px;
 }
