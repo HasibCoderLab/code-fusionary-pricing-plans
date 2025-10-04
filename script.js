@@ -12,7 +12,7 @@ const setPlan = (plan, type) => {
             document.getElementById("duration-std").innerText = "/per month";
 
         } else if (type === "year") {
-            document.getElementById("price-std").innerText = "$190";
+            document.getElementById("price-std").innerText = "$59";
             document.getElementById("duration-std").innerText = "/per year";
         }
     }
