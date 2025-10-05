@@ -1,6 +1,10 @@
 # Code-fusionary-pricing-plans
 
 ---
+## 🚀 Features  
+
+✅ **Gradient buttons** for stylish interactions  
+✅ **Responsive layout** with a clean UI  
 
 ## 🛠 Technologies Used  
 - **HTML** – Structured webpage elements  
@@ -16,3 +20,5 @@
 ![Website Preview](./assets/Previews/preview-2.png)  
 
 ---
+
+⭐ **Feel free to fork, star, and contribute!** 😊
