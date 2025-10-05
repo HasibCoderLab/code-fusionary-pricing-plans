@@ -1,8 +1,11 @@
 // Toggle show/hide plan options
 document.querySelector(".toggle-btn").addEventListener("click", () => {
     const options = document.getElementById("plan-options-std");
-    options.style.display = options.style.display === "block" ? "none" : "block";
-    // console.log(options, "Dome");
+    if (options.style.display === "flex") {
+        options.style.display = "none";
+    }else{
+        options.style.display = "flex";
+    }
     
 });
 const setPlan = (plan, type) => {
