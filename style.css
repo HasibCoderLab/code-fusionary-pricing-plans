@@ -134,11 +134,3 @@ button:hover {
 .box img {
     margin: 15px 0 0 15px;
 }
-
-@media screen and (max-width:420px) {
-  header img {
-    display: block;
-    margin: 25px auto;
-    width: 20%;
-  }
-}
