@@ -58,6 +58,9 @@ img:hover{
     justify-content: center;
     gap: 10px;
 }
+#plan-options-std {
+  display: none;
+}
 
 .plan-options button {
     margin: 5px;
