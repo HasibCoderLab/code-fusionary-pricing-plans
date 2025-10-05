@@ -1,7 +1,26 @@
-@media screen and (max-width:420px) {
-  header img {
-    display: block;
-    margin: 25px auto;
-    width: 20%;
+@media screen and (max-width: 768px) {
+  .main-box {
+    display: flex;
+    /* flex-wrap: nowrap; */
+    overflow-x: auto;
+    scroll-behavior: smooth;
+  }
+
+  .main-box::-webkit-scrollbar {
+    height: 8px;
+  }
+
+  .main-box::-webkit-scrollbar-thumb {
+    background: #4079da;
+    border-radius: 10px;
+  }
+
+  .main-box::-webkit-scrollbar-track {
+    background: #e0e0e0;
+  }
+
+  .box {
+    flex: 0 0 85%; /* mobile view te box gula side scroll hobe */
+    min-width: 300px;
   }
 }
