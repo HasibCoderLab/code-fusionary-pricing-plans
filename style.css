@@ -19,10 +19,12 @@ header img {
     transition: transform ease-in-out 1s;
     /* object-fit: contain; */
 }
-img:hover{
+
+img:hover {
     transform: scale(1.2) rotate(360deg);
 
 }
+
 .main-box {
     display: flex;
     align-items: flex-start;
@@ -34,21 +36,14 @@ img:hover{
 .box {
     width: 350px;
     min-height: 800px;
-    /* min-width: 300px; */
-    /* border: 4px solid #FFB039; */
-    border: 0.5px  solid #0064f9bd;
+    border: 0.5px solid #0064f9bd;
     background-color: #FFF;
-    /* display: flex;
-    flex-direction: column;
-    align-items: center; */
-    /* padding: 20px; 
-     margin: 20px; */ 
-
 }
 
 .box:hover {
     box-shadow: 0 4px 12px #cfd8dc66;
 }
+
 /* for Toggle btn */
 .plan-options {
     display: none;
@@ -58,8 +53,9 @@ img:hover{
     justify-content: center;
     gap: 10px;
 }
+
 #plan-options-std {
-  display: none;
+    display: none;
 }
 
 .plan-options button {
@@ -71,6 +67,7 @@ img:hover{
     color: #fff;
     cursor: pointer;
 }
+
 .plan-options button:hover {
     background: #305db0;
 }
@@ -111,7 +108,7 @@ img:hover{
     font-weight: 700;
     cursor: pointer;
     /* border-bottom: 1px dotted black; */
-    
+
 }
 
 button:hover {
@@ -126,7 +123,7 @@ button:hover {
     /* justify-content: center; */
     gap: 10px;
     font-size: 16px;
-    
+
 }
 
 .box h1 i {
