@@ -10,13 +10,19 @@ body {
 }
 
 header img {
-    height: 60px;
-    width: 490px;
+    height: 5%;
+    width: 5%;
+    border-radius: 50%;
     object-fit: cover;
     margin: 2px auto auto 3px;
+    cursor: pointer;
+    transition: all ease-in-out 1s;
     /* object-fit: contain; */
 }
+img:hover{
+    transform: scale(1.5) rotate(360deg);
 
+}
 .main-box {
     display: flex;
     align-items: flex-start;
