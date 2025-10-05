@@ -1,13 +1,12 @@
 # Code-fusionary-pricing-plans
 
----
+
 
 
 ---
 
 ## 📂 Project File Structure  
 ```
-code-fusionary-pricing-plans/
 code-fusionary-pricing-plans/
   
 │── assets/                
@@ -33,21 +32,26 @@ code-fusionary-pricing-plans/
 
 ---
 
+
 ## 🚀 Features  
 
-✅ **Gradient Background** for stylish interactions  
-✅ **Responsive layout** with a clean UI  
-✅ **Interactive pricing boxes** with JS toggle options  
-✅ **Social links** integration  
+- ✅ **Gradient Background** for a stylish and modern look  
+- ✅ **Responsive Layout** that works on all devices  
+- ✅ **Interactive Pricing Boxes** with toggleable monthly/yearly options  
+- ✅ **Social Links Integration** for easy connectivity  
+- ✅ **Hover Animations** on images and buttons for better UX  
 
 ---
 
 ## 🛠 Technologies Used  
 
-- **HTML** – Structured webpage elements  
-- **CSS** – Styling, animations, hover effects  
-- **JS** – Dynamic content, toggle buttons, interactive pricing  
+- **HTML5** – Semantic and structured webpage elements  
+- **CSS3** – Styling, flexbox, transitions, hover effects, responsive design  
+- **JavaScript (ES6)** – Dynamic content, toggle buttons, interactive pricing  
+---
 
+---
+👉 [Visit the Website](https://code-fusionary-pricing-plans.vercel.app/)
 ---
 
 ## 📸 Preview  Main Section
@@ -56,6 +60,24 @@ code-fusionary-pricing-plans/
 ## 📸 Preview  footer Section
 ![Website Preview](./assets/Previews/preview-2.png)  
 
+
 ---
 
-⭐ **Feel free to fork, star, and contribute!** 😊
+## 💡 Usage
+
+1. Clone the repository:
+```bash
+git clone https://github.com/HasibCoderLab/code-fusionary-pricing-plans.git
+```
+### 🔹 Open in Browser  ### 🔹 Open in Browser  
+Simply open `index.html` in your preferred browser.  
+
+Customize plans, features, and styles as needed.
+
+
+
+🤝 Contributing
+
+🤝 Contributing
+
+⭐ **Feel free to fork, star, and contribute!** Submit pull requests—any improvements to responsiveness, design, or functionality are welcome!
