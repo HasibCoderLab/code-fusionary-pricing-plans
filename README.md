@@ -32,15 +32,21 @@ code-fusionary-pricing-plans/
 ```
 
 ---
+
 ## 🚀 Features  
 
 ✅ **Gradient Background** for stylish interactions  
 ✅ **Responsive layout** with a clean UI  
+✅ **Interactive pricing boxes** with JS toggle options  
+✅ **Social links** integration  
+
+---
 
 ## 🛠 Technologies Used  
+
 - **HTML** – Structured webpage elements  
-- **CSS** – Styling, animations, and hover effects  
-- **JS** – Logic , condition,  display-flex , 
+- **CSS** – Styling, animations, hover effects  
+- **JS** – Dynamic content, toggle buttons, interactive pricing  
 
 ---
 
