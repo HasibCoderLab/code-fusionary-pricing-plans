@@ -16,11 +16,11 @@ header img {
     object-fit: cover;
     margin: 2px auto auto 3px;
     cursor: pointer;
-    transition: all ease-in-out 1s;
+    transition: transform ease-in-out 1s;
     /* object-fit: contain; */
 }
 img:hover{
-    transform: scale(1.5) rotate(360deg);
+    transform: scale(1.2) rotate(360deg);
 
 }
 .main-box {
