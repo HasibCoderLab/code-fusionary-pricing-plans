@@ -50,6 +50,8 @@ code-fusionary-pricing-plans/
 - **JavaScript (ES6)** – Dynamic content, toggle buttons, interactive pricing  
 ---
 
+
+
 ---
 👉 [Visit the Website](https://code-fusionary-pricing-plans.vercel.app/)
 ---
@@ -69,15 +71,18 @@ code-fusionary-pricing-plans/
 ```bash
 git clone https://github.com/HasibCoderLab/code-fusionary-pricing-plans.git
 ```
-### 🔹 Open in Browser  ### 🔹 Open in Browser  
+ ### 🔹 Open in Browser  
 Simply open `index.html` in your preferred browser.  
 
 Customize plans, features, and styles as needed.
 
 
 
-🤝 Contributing
 
-🤝 Contributing
 
-⭐ **Feel free to fork, star, and contribute!** Submit pull requests—any improvements to responsiveness, design, or functionality are welcome!
+---
+
+## 🤝 Contributing
+
+⭐ **Feel free to fork, star, and contribute!** Submit pull requests — any improvements to responsiveness, design, or functionality are welcome!
+
